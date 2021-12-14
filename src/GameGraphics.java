@@ -20,7 +20,7 @@ package test;
 import java.awt.*;
 
 
-public class GraphicsMain {
+public class GameGraphics {
 
     public static void main(String[] args){
         EventQueue.invokeLater(() -> new GameFrame().initialize());
